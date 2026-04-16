@@ -1,8 +1,8 @@
 **Spring Boot User API — Production‑Style Backend (By Sathvik)**
 
-This project demonstrates how I design real-world, production-ready backend services using Java \& Spring Boot.
+This project demonstrates how I design real-world, production-ready backend services using Java & Spring Boot.
 
-It focuses on clean architecture, validation, exception handling, logging, and observability — exactly the areas MTI emphasized during the interview.
+It focuses on clean architecture, validation, exception handling, logging, and observability exactly the areas MTI emphasized during the interview.
 
 
 🚀 1. Overview
@@ -115,7 +115,7 @@ Code
 {"ts":"2026-04-16T15:30:12.123Z","level":"INFO","correlationId":"c12f...","logger":"UserController","msg":"POST /api/users name=John"}
 
 ✔ Why this matters
-This is how real distributed systems are debugged — especially in integration-heavy environments like MTI.
+This is how real distributed systems are debugged especially in integration-heavy environments like MTI.
 
 
 🧪 7. In-Memory Store (For Demo Purposes)
